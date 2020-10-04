@@ -1,7 +1,6 @@
 def streamline(*,x,y,z=None,u,v,w=None,xi,yi,zi=None,n,length,r_mag=False,r_u=False,r_v=False,r_w=False):
     '''
     #   Made on 23 / 07 / 2020 (dd / mm / yyyy)
-    #   Made this referring the "streamline" function of MATLAB 2018a
     #   modules to install "numpy, scipy"
     #    x,y,z,u,v,w = given vector data (u,v,w) for corresponding (x,y,z)
     #       x,y,z,u,v,w should be 3d numpy array ( for 3d streamline )
